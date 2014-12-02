@@ -1,0 +1,50 @@
+﻿.imageControl
+{
+    position:relative;
+    width:202px;
+    height:149px;
+    overflow:hidden;
+}
+
+.imageControl ul
+{
+    list-style:none;
+    width:10000px;
+    padding:0;
+    margin:0;
+    height:149px;
+}
+
+.imageControl li
+{
+    float:left;
+}
+
+.clear
+{
+    clear:both;
+}
+
+#paging a.color1
+{
+    display:block;
+    background:#5BA4F2;
+    height:10px; 
+    width:65px;
+}
+
+#paging a.color2
+{
+    display:block;
+    background:#165BA6;
+    height:10px; 
+    width:65px;
+}
+
+#paging a.color3
+{
+    display:block;
+    background:#DAC71B;
+    height:10px; 
+    width:65px;
+}
